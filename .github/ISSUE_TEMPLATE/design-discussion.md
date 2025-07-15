@@ -7,4 +7,6 @@ assignees: ''
 
 ---
 
-Write about how well you slept here, and then proceed to your rant.
+# Description
+
+# Motivation

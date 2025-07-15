@@ -10,6 +10,7 @@ The dates so far have been:
 | Bootcamp 2025 | July 14-18, 2025 | Jadwin Hall, Princeton, NJ |
 
 SMS -- This is my Feature 1
+Make some changes
 
 
 
@@ -20,7 +21,4 @@ and [2017259](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2017259).
 
 ##AS
 =======
-##AS2
-
-=============
-#AS3
+=======

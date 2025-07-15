@@ -9,6 +9,7 @@ The dates so far have been:
 | Bootcamp 2024 | July 15-19, 2024 | Lewis Library, Princeton, NJ |
 | Bootcamp 2025 | July 14-18, 2025 | Jadwin Hall, Princeton, NJ |
 
+haha I made a random change!
 
 ## Funding
 
